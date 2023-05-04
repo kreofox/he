@@ -3,7 +3,8 @@ rhym = {"1": "David",
         "3": "Lexa",
         "4": "Boda",
         "5": "Aleks"
-    }
+        "6": "Lisa"
+       }
 n = input("Enter a number: ")
 if n in rhym:
     rhym = rhym[n]
